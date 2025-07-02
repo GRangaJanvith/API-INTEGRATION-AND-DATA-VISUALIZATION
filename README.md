@@ -8,3 +8,4 @@
 * YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN SOO WORDS)
 * OUTPUT::![Image](https://github.com/user-attachments/assets/f3985fb0-5374-4bd6-99ca-7fbe7903f0b6)
 ![Image](https://github.com/user-attachments/assets/12a13f42-c442-4ce7-bd0f-72e79443786e)
+![Image](https://github.com/user-attachments/assets/e87f097e-c4cb-43d6-be92-d39d45bbf5eb)
