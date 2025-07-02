@@ -66,6 +66,6 @@ Code Explanation
 
 Contact For any questions or feedback, feel free to reach out to:
 
-GURRAM RANGA JANVITH
-Company: CODTECH IT SOLUTIONS
-Email: g.rangajanvith@gmail.com
+* GURRAM RANGA JANVITH
+* Company: CODTECH IT SOLUTIONS
+* Email: g.rangajanvith@gmail.com
